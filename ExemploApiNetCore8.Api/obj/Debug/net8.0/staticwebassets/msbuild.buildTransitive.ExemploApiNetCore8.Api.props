@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ExemploApiNetCore8.Api.props" />
+</Project>

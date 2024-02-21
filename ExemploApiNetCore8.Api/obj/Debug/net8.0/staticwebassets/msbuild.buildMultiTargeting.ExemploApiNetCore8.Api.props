@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExemploApiNetCore8.Api.props" />
+</Project>
